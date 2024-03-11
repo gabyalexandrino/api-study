@@ -1,0 +1,6 @@
+pip install fastapi
+pip install uvicorn (rodar webserver)
+
+cria o arquivo .py
+
+uvicorn [nomedoaquivo]:[varialvelapp] --reload
