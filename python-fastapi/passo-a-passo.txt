@@ -1,3 +1,5 @@
+https://youtu.be/tLKKmouUams?si=mFOpvxJ7vFuaZdWR
+
 pip install fastapi
 pip install uvicorn (rodar webserver)
 
