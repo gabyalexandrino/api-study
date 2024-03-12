@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+urllib
+google-cloud-storage
+pydantic
